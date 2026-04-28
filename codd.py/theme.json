@@ -1,0 +1,37 @@
+{
+    "defaults": {
+        "colours": {
+            "dark_bg": "#2C2C2C",
+            "normal_bg": "#4A4A4A",
+            "hovered_bg": "#5A5A5A",
+            "active_bg": "#3A3A3A",
+            "normal_text": "#E0E0E0"
+        }
+    },
+    "button": {
+        "colours": {
+            "normal_bg": "#4A4A4A",
+            "hovered_bg": "#606060",
+            "active_bg": "#303030",
+            "normal_border": "#1A1A1A",
+            "selected_bg": "#707070"
+        },
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "10",
+            "border_width": "1",
+            "shadow_width": "3",
+            "tool_tip_delay": "1.0"
+        }
+    },
+    "label": {
+        "colours": {
+            "normal_text": "#FFFFFF"
+        },
+        "font": {
+            "name": "fira_code",
+            "size": "18",
+            "bold": "1"
+        }
+    }
+}
