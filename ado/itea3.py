@@ -1,6 +1,0 @@
-n = map(float,input().split())
-new = list(n)
-maxdata = max(new)
-mindata = min(new)
-print(f"maximum:{maxdata:.2f}")
-print(f"minimum:{mindata:.2f}")
